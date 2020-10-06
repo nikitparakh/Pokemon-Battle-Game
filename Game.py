@@ -1,5 +1,5 @@
 """
-    This is project 11, which is a pokemon battle game.
+    This is a pokemon battle game.
     All necessary functions like read files, turn, add moves are defined
     The main function runs the game, it asks 2 players to choose their pokemons
     and then runs the game turn by turn, where each player has four moves.
